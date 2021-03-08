@@ -291,7 +291,9 @@ img {
         border-color: #403D39;
         }
     
-   
+    ul.list {
+        padding: 20px;
+    }
     
     /* Media Queries */
     

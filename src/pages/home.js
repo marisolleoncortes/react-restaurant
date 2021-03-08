@@ -9,6 +9,11 @@ export default function Home() {
             "name": "Festive Taco Nacho",
             "image": "https://www.cscassets.com/recipes/wide_cknew/wide_25873.jpg",
             "description": "Crisp tortilla chips are layered with ground beef, cheese, tomatoes, olives and onion, then baked until piping hot to make this fun and flavorful appetizer in just 30 minutes!",
+        },
+        {
+            "name": "Buffalo Chicken Wings",
+            "image": "https://d1uz88p17r663j.cloudfront.net/resized/1a69f85aabec474eb02d4c875c0de560_iStock-835903320_744_419.jpg",
+            "description": "Buffalo wings are a perennial favorite, they’re perfect for parties, game day, or just when you have a hankering for a hearty snack.",
         }
     ];
 
